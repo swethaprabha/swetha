@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-	int n,i,c=0,k=0,t;
+	int n,i,c=0,k=0,t,j;
     scanf("%d",&n);
 	int a[n],temp[n];
 	for(i=0;i<n;i++)
